@@ -5,7 +5,7 @@ Produkter och infrastruktur-dashboards: fran expense-appar och global intelligen
 ## Flaggskeppsrepos
 
 - [mission-platform](https://github.com/AiProducting/mission-platform) — 726 services med OptaPlanner, Kogito och Sigstore (multi-lang: Java, TS, Python)
-- [terraform-infrastructure](https://github.com/AiProducting/terraform-infrastructure) — Multi-cloud Terraform for AWS/Azure/GCP med 12+ moduler
+- [home-auto](https://github.com/AiProducting/home-auto) — Ekonomi + smart home-plattform (Next.js + Supabase)
 - [redhat-middleware-stack](https://github.com/AiProducting/redhat-middleware-stack) — 97 containers: Kafka, Camel, WildFly och monitoring
 - [worldmonitor](https://github.com/AiProducting/worldmonitor) — Realtids global intelligence med 435+ feeds, Tauri 2 desktop (TypeScript, React)
 - [finops](https://github.com/AiProducting/finops) — FinOps-dashboard: molnkostnadshantering, FastAPI + React + PostgreSQL
@@ -14,7 +14,7 @@ Produkter och infrastruktur-dashboards: fran expense-appar och global intelligen
 
 - Kebab-case repo names
 - Conventional commits
-- Infrastructure-as-code via terraform-infrastructure
+- Infrastructure-as-code via [iAify-Sandbox/terraform-infrastructure](https://github.com/iAify-Sandbox/terraform-infrastructure)
 - CI/CD via Ai-road-4-You/enterprise-ci-cd@v1
 
 ## Dokumentation
